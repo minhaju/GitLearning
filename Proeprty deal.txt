@@ -1,0 +1,7 @@
+1. Advance Search  ( Any content of property details) - No
+2. Search box position changed above of Featured Properties for Sales - Yes
+3. Explore by Property Type box size will be same and heigh will be 4 inches
+4. Testimonials alignment will be same
+5. Our Client will be link of profile
+6.  
+  
